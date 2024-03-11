@@ -146,17 +146,19 @@ body{
     width: 100%;
     height: auto;
     display: flex;
+    gap: 50px;
     align-items: center;
     justify-content: center;
 }
 #question>select{
+    
     border: 2px solid red;
     width: 400px;
     margin: 5px;
     padding: 5px;
     border-radius: 10px;
     color: white;
-    background-color: black;
+    background-color: #0a0a0a;
     font-family: "Shojumaru", system-ui;
 
 }
